@@ -2194,7 +2194,7 @@ input, select, textarea {
 
 /* Slideshow container */
 	.slideshow-container {
-		max-width: 1000px;
+		max-width: 5000px;
 		position: relative;
 		margin: auto;
 	}
